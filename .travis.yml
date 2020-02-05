@@ -1,0 +1,4 @@
+language: cpp
+os: linux
+script:
+  - g++ -std=c++17 main.cpp
